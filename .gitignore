@@ -1,0 +1,8 @@
+# SO / editor
+.DS_Store
+*.swp
+*.swo
+
+# Segredos
+.env
+*.key
